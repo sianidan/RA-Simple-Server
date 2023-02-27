@@ -1,0 +1,19 @@
+{
+  "name": "ra-simple-server",
+  "version": "1.0.0",
+  "description": "Simple Node.js server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sianidan/RA-Simple-Server.git"
+  },
+  "author": "Siani Dan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sianidan/RA-Simple-Server/issues"
+  },
+  "homepage": "https://github.com/sianidan/RA-Simple-Server#readme"
+}
